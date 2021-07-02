@@ -142,6 +142,7 @@ height: 32em;
 
 /*--cards section--*/
 .notification-item{
+    display: relative;
     background-color: white;
     margin-top: 37px;
     border-radius: 16px;
@@ -189,6 +190,7 @@ color: #928D8D;
 }
 
 .notification-others{
+    display: relative;
     background-color: white;
     margin-top: 20px;
     border-radius: 16px;
